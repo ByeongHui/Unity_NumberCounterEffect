@@ -1,0 +1,17 @@
+# Built application files
+*.sln
+*.csproj
+
+#Library Folder
+Library/
+
+#ProjectSettings
+ProjectSettings/
+
+#Visual studio
+.vscode/
+.vs/
+
+#Temp Folder
+Temp/
+
